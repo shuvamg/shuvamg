@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shuvamg
-- 👀 I’m interested in ...python in physics
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python
+- 👀 I’m interested in ...fortran & python in physics
+- 🌱 I’m currently learning ..fortran
+- 💞️ I’m looking to collaborate on ...fortran
 - 📫 How to reach me ...shuvamghosh22@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
